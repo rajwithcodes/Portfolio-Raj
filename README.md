@@ -27,16 +27,6 @@ Edit
 
 ---
 
-## 📸 Screenshots
-
-### 💻 Desktop View
-![Desktop Preview](assets/screenshot-desktop.png)
-
-### 📱 Mobile View
-![Mobile Preview](assets/screenshot-mobile.png)
-
----
-
 ## 🔧 Technologies Used
 
 - HTML5
