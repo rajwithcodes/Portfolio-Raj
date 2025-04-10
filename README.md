@@ -60,7 +60,7 @@ Edit
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/rajwithcodes/Portfolio-Raj.git
 Open in your code editor
 
 Edit index.html, about.html, work.html, or contact.html with your own content
