@@ -42,8 +42,6 @@ Edit
 
 🔗 [Click here to view live site](https://rajsinghania.co.in/)
 
-> _Make sure to replace the above link with your actual GitHub Pages URL._
-
 ---
 
 ## ✍️ How to Use
